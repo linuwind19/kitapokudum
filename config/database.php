@@ -1,9 +1,9 @@
 <?php
 // Veritabanı bağlantı ayarları
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'muratyaylaweb_kddbdb');
-define('DB_USER', 'muratyaylaweb_kddbuser');
-define('DB_PASS', 'My6252797/*-');
+define('DB_NAME', 'kddbdb');
+define('DB_USER', 'kddbuser');
+define('DB_PASS', '625000');
 define('DB_CHARSET', 'utf8mb4');
 
 class Database {
